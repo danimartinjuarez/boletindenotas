@@ -1,0 +1,104 @@
+{
+  "alumnos":[
+    {
+      "nombre": "Jonathan",
+      "asignatura": "Matematicas",
+      "calificacion": 9
+    },
+    {
+      "nombre": "Martha",
+      "asignatura": "Matematicas",
+      "calificacion": 7
+    },
+    {
+      "nombre": "Pamela",
+      "asignatura": "Matematicas",
+      "calificacion": 7
+    },
+    {
+      "nombre": "Alberto",
+      "asignatura": "Matematicas",
+      "calificacion": 3
+    },
+    {
+      "nombre": "Monica",
+      "asignatura": "Matematicas",
+      "calificacion": 1
+    },
+    {
+      "nombre": "Jonathan",
+      "asignatura": "Geografia",
+      "calificacion": 4
+    },
+    {
+      "nombre": "Martha",
+      "asignatura": "Geografia",
+      "calificacion": 7
+    },
+    {
+      "nombre": "Pamela",
+      "asignatura": "Geografia",
+      "calificacion": 7
+    },
+    {
+      "nombre": "Alberto",
+      "asignatura": "Geografia",
+      "calificacion": 3
+    },
+    {
+      "nombre": "Monica",
+      "asignatura": "Geografia",
+      "calificacion": 1
+    },
+    {
+      "nombre": "Jonathan",
+      "asignatura": "Historia",
+      "calificacion": 4
+    },
+    {
+      "nombre": "Martha",
+      "asignatura": "Historia",
+      "calificacion": 7
+    },
+    {
+      "nombre": "Pamela",
+      "asignatura": "Historia",
+      "calificacion": 7
+    },
+    {
+      "nombre": "Alberto",
+      "asignatura": "Historia",
+      "calificacion": 3
+    },
+    {
+      "nombre": "Monica",
+      "asignatura": "Historia",
+      "calificacion": 1
+    },
+    {
+      "nombre": "Jonathan",
+      "asignatura": "Quimica",
+      "calificacion": 4
+    },
+    {
+      "nombre": "Martha",
+      "asignatura": "Quimica",
+      "calificacion": 7
+    },
+    {
+      "nombre": "Pamela",
+      "asignatura": "Quimica",
+      "calificacion": 7
+    },
+    {
+      "nombre": "Alberto",
+      "asignatura": "Quimica",
+      "calificacion": 3
+    },
+    {
+      "nombre": "Monica",
+      "asignatura": "Quimica",
+      "calificacion": 1
+    }
+  ]
+}

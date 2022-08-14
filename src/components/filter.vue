@@ -16,14 +16,14 @@
 <style>
 form{
     background-color: gainsboro;
-    width: 30vw;
+    max-width: 25%;
     height: 50vh;
     margin: 2%;
     padding: 2%;
     line-height: 230%;
 }
 input{
-    width: 85%;
+    width: 100%;
     height: 5%;
 }
 </style>
